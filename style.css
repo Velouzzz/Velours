@@ -1,0 +1,27 @@
+body {
+
+    font-size: 12pt;
+
+    background-color: black;
+
+}
+
+h1 {
+
+  font-family: "Lilita One", cursive;
+
+  color: white;
+
+  text-align: center;
+
+} 
+
+p {
+
+  color:white;
+
+  text-align: center;
+
+  font-family: "Days One"; font-size: 12pt; font-style: normal; font-variant: normal; font-weight: 200; line-height: 20px; }
+
+}
