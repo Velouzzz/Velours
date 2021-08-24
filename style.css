@@ -29,17 +29,23 @@ p {
             text-decoration: none;
             margin-top: 10px;
             margin-left: 10px;
+            font-family: Arial, Helvetica, sans-serif;
    
  } 
  
  
   
-  #logodiscord {
-   margin-left: 90px;
-   margin-top: 10px;
+#logodiscord {
+   margin: 10px 5px 0 0;
    width: auto;
    height: 35px;
  }
+ 
+ #divCord {
+   display: flex;
+   justify-content: center;
+ }
+
  
  #GodTeam {
             background-color: cornflowerblue;
@@ -51,14 +57,20 @@ p {
             padding: 10px 12px;
             text-decoration: none;
             margin-top: 15px;
-            margin-left: 100px;
+            margin-left: 10px;
+            font-family: Arial, Helvetica, sans-serif;
    
  } 
  
   
-  #logogt {
-   margin-left: 90px;
-   margin-top: 10px;
+#logogt {
+   margin: 10px 5px 0 0;
    width: auto;
-   height: 35px;
+   height: 35px
+   
+ }
+ 
+ #divCord2 {
+   display: flex;
+   justify-content: center;
  }
