@@ -1,0 +1,91 @@
+body {
+    font-size: 12pt;
+    background-color: #23272B;
+
+}
+h1 {
+  font-family: "Lilita One", cursive;
+  color: white; 
+  text-align: center;
+  font-weight: 200;
+} 
+
+p {
+  color:white;
+  text-align: center;
+  font-family: "Days One"; font-size: 12pt; font-style: normal; font-variant: normal; font-weight: 200; line-height: 20px; 
+  
+}
+
+
+ #discord {
+            background-color: cornflowerblue;
+            border: none;
+            border-radius: 4px;
+            color: white;
+            display: inline-block;
+            font-weight: 300;
+            padding: 10px 12px;
+            text-decoration: none;
+            margin-top: 10px;
+            margin-left: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+   
+ } 
+ 
+ 
+  
+#logodiscord {
+   margin: 10px 5px 0 0;
+   width: auto;
+   height: 35px;
+ }
+ 
+ #divCord {
+   display: flex;
+   justify-content: center;
+ }
+
+ 
+ #GodTeam {
+            background-color: cornflowerblue;
+            border: none;
+            border-radius: 4px;
+            color: white;
+            display: inline-block;
+            font-weight: 300;
+            padding: 10px 12px;
+            text-decoration: none;
+            margin-top: 15px;
+            margin-left: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+   
+ } 
+ 
+  
+#logogt {
+   margin: 10px 5px 0 0;
+   width: auto;
+   height: 35px
+   
+ }
+ 
+ #divCord2 {
+   display: flex;
+   justify-content: center;
+ }
+
+ #Tiktok {    
+    background-color: black;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+    font-weight: 300;
+    padding: 10px 12px;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
