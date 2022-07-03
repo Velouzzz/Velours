@@ -8,6 +8,7 @@ h1 {
   color: white; 
   text-align: center;
   font-weight: 200;
+  padding-top: 10px;
 } 
 
 p {
@@ -66,13 +67,15 @@ p {
 #logogt {
    margin: 10px 5px 0 0;
    width: auto;
-   height: 35px
+   height: 35px;
+   margin-top: 20px;
    
  }
  
  #divCord2 {
    display: flex;
    justify-content: center;
+ 
  }
 
  #Tiktok {    
@@ -87,5 +90,30 @@ p {
     margin-top: 15px;
     margin-left: 10px;
     font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#Tiktok2 {    
+  background-color: black;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  display: inline-block;
+  font-weight: 300;
+  padding: 10px 12px;
+  text-decoration: none;
+  margin-top: 15px;
+  margin-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#header {
+ height: 100px;
+ align-content: center;
+ background-color:    #464444;
+ box-shadow: 0 0 5px #464444;
+ border-radius: 10px;
+ border: 1px white solid;
 
 }
