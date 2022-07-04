@@ -136,3 +136,16 @@ p {
   text-decoration: none;
   padding-top: 25px;
 }
+
+footer{
+
+background:#23272B;
+position:absolute;
+bottom:0;
+width:100%;
+padding-top:50px;
+height:50px;
+text-decoration: none;
+color: white;
+
+}
